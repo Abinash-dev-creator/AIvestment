@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AIvestment: Your AI-Powered Financial Assistant
 
-## Getting Started
+**AIvestment** is designed to help users make smarter investment decisions by providing personalized financial advice, educational resources, and market insights through an AI-powered platform.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **AI-Powered Advice**: Receive personalized financial guidance based on your goals, risk tolerance, and current market conditions.
+- **Financial Education**: Learn investment concepts through interactive conversations, making complex topics accessible to everyone.
+- **Market Insights**: Stay informed with up-to-date market trends and understand their potential impact on your investments.
+- **Product Recommendations**: Discover investment products that align with your financial objectives and risk profile.
+- **Risk Assessment**: Gain a clear understanding of the risks associated with various investment options.
+- **Goal Tracking**: Set, monitor, and achieve your financial goals with tailored recommendations.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Meet the Team
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Sudipa Dhara**: Team Lead & Founder – Over 10 years of experience in investment management and financial planning.
+- **Abinash Roy**: AI Engineer – Specializes in natural language processing and machine learning for financial applications.
+- **Srijita**: Financial Analyst – Expert in market analysis and investment strategies, focusing on emerging markets.
+- **Srienjoy Sen**: Product Manager – Dedicated to creating intuitive user experiences for financial products and services.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Testimonials
 
-## Learn More
+> "As someone new to investing, AIvestment has been incredibly helpful. It explained complex concepts in simple terms and helped me create a diversified portfolio that matches my goals."  
+> — *Abinash Roy, Software Engineer*
 
-To learn more about Next.js, take a look at the following resources:
+> "I was always intimidated by financial jargon, but AIvestment made it easy to understand. I've learned so much about investing and have started building my retirement portfolio."  
+> — *Srijita, Marketing Manager*
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+> "The product recommendations were spot on! AIvestment helped me find investment options that aligned with my business goals and risk tolerance. Highly recommended!"  
+> — *Srienjoy Sen, Small Business Owner*
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Disclaimer
 
-## Deploy on Vercel
+The information provided by AIvestment is for educational purposes only and should not be considered financial advice. Always consult with a financial advisor before making investment decisions.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Experience AIvestment: [https://v0-ai-finance-z9thoi.vercel.app/](https://v0-ai-finance-z9thoi.vercel.app/)
